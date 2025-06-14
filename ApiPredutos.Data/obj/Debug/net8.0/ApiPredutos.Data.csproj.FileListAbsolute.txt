@@ -1,0 +1,14 @@
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\bin\Debug\net8.0\ApiPredutos.Data.deps.json
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\bin\Debug\net8.0\ApiPredutos.Data.runtimeconfig.json
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\bin\Debug\net8.0\ApiPredutos.Data.dll
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\bin\Debug\net8.0\ApiPredutos.Data.pdb
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.csproj.AssemblyReference.cache
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.AssemblyInfoInputs.cache
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.AssemblyInfo.cs
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.csproj.CoreCompileInputs.cache
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.dll
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\refint\ApiPredutos.Data.dll
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.pdb
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ApiPredutos.Data.genruntimeconfig.cache
+C:\Users\nreis\source\repos\ApiPredutos\ApiPredutos.Data\obj\Debug\net8.0\ref\ApiPredutos.Data.dll
